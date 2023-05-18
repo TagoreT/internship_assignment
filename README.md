@@ -1,7 +1,9 @@
 Internship Assignment
 
--> Here i developed an website using HTML, CSS, Java Script PHP and MySQL
+-> Here i developed an website using HTML, CSS, Java Script PHP and MySQL.
+
 -> To run this project i used XAMPP server.
+
 -> Code writen in VS Code.
 
 To run this project 
